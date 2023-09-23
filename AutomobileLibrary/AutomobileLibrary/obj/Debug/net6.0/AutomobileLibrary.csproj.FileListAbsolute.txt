@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ASPNET\AutomobileSolution\AutomobileLibrary\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
